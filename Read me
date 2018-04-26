@@ -1,9 +1,0 @@
-C-Ranker is a post-database searching software for peptide identiﬁ-
-cation. The software package implements solvers for both C-Ranker
-model and cost-sensitive Ranker (CS-Ranker) model. The goal of the
-package is to identify correct PSMs output from the database search-
-ing SEQUEST. Users can ﬁnd that it is easily to employ C-Ranker to
-identify reliable PSMs from other database searching engines, such as
-MASCOT, and X!TANDEM. It is developed mainly in Matlab and
-naturally supports Matlab platform.
-
