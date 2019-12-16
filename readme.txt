@@ -1,9 +1,12 @@
-MATLAB Compiler
+Exe files of OLCS-Ranker 
+
+Version 4.4.2
+
+
 
 1. Prerequisites for Deployment 
 
-. Verify the MATLAB runtime is installed and ensure you    
-  have installed version 8.5 (R2015a).   
+. Verify the MATLAB runtime is installed and ensure you    have installed version 8.5 (R2015a).   
 
 . If the MATLAB runtime is not installed, do the following:
   (1) enter
@@ -21,9 +24,7 @@ from the MathWorks Web site by navigating to
    http://www.mathworks.com/products/compiler/mcr/index.html
    
    
-For more information about the MATLAB runtime and the MATLAB runtime installer, see 
-Package and Distribute in the MATLAB Compiler documentation  
-in the MathWorks Documentation Center.    
+For more information about the MATLAB runtime and the MATLAB runtime installer, see Package and Distribute in the MATLAB Compiler documentation  in the MathWorks Documentation Center.    
 
 
 NOTE: You will need administrator rights to run MCRInstaller. 
@@ -41,18 +42,12 @@ Files to package for Standalone
 -olcs_test.exe
 -olcs_split.exe
 -MCRInstaller.exe 
-   -if end users are unable to download the MATLAB runtime using the above  
-    link, include it when building your component by clicking 
-    the "Runtime downloaded from web" link in the Deployment Tool
--This readme file 
+   -if end users are unable to download the MATLAB runtime using the above  link, include it when building your component by clicking the "Runtime downloaded from web" link in the Deployment Tool
+ -This readme file 
 
 3. Definitions
 
-For information on deployment terminology, go to 
-http://www.mathworks.com/help. Select MATLAB Compiler >   
-Getting Started > About Application Deployment > 
-Application Deployment Terms in the MathWorks Documentation 
-Center.
+For information on deployment terminology, go to http://www.mathworks.com/help. Select MATLAB Compiler >   Getting Started > About Application Deployment > Application Deployment Terms in the MathWorks Documentation Center.
 
 
 
