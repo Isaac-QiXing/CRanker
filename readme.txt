@@ -1,3 +1,18 @@
+OLCS-Ranker is a post-database searching software for peptide identification. The
+software package implements solvers for cost-sensitive Ranker (CS-Ranker) model.
+The goal of the package is to identify correct PSMs output from the database
+searching engines based on target-decoy strategy. OLCS-Ranker do not depend on
+any particular searching engine. It could be applied to deal with the PSM records
+output by the search engine of Sequest, X!Tandem, Mascot, Tide, Comet, etc., once
+the sample data are provided in the required format. OLCS-Ranker is developed
+mainly in Matlab and naturally supports Matlab platform. Moreover, the complied
+Exe files are also provided, thus OLCS-Ranker commands could also run in Windows
+OS after installing Matlab Runtime Complier (MRC, a free software). Alternatively,
+we have also provided a web-based GUI for users of OLCS-Ranker. A user can visit
+http://161.6.5.181:8000/olcs-ranker/. In case that the server is under maintenance,
+please contact zhonghang.xia@wku.edu.
+
+
 Exe files of OLCS-Ranker 
 
 Version 4.4.2
