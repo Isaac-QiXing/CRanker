@@ -53,8 +53,6 @@ Files to package for Standalone
 -olcs_solve.exe
 -olcs_write.exe
 -olcs_version.exe
--olcs_train.exe
--olcs_test.exe
 -olcs_split.exe
 -MCRInstaller.exe 
    -if end users are unable to download the MATLAB runtime using the above  link, include it when building your component by clicking the "Runtime downloaded from web" link in the Deployment Tool
