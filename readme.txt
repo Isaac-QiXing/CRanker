@@ -21,7 +21,7 @@ Version 4.4.6
 
 1. Prerequisites for Deployment 
 
-. Verify the MATLAB runtime is installed and ensure you    have installed version 8.5 (R2015a).   
+. Verify the MATLAB runtime is installed and ensure you    have installed version R2019b.   
 
 . If the MATLAB runtime is not installed, do the following:
   (1) enter
