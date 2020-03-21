@@ -15,7 +15,7 @@ please contact zhonghang.xia@wku.edu.
 
 Exe files of OLCS-Ranker 
 
-Version 4.4.5
+Version 4.4.6
 
 
 
@@ -33,7 +33,7 @@ Version 4.4.5
 
   (2) run the MATLAB runtime installer.
 
-Or download the Windows 64-bit version of the MATLAB runtime for R2015a 
+Or download the Windows 64-bit version of the MATLAB runtime for R2019b
 from the MathWorks Web site by navigating to
 
    http://www.mathworks.com/products/compiler/mcr/index.html
